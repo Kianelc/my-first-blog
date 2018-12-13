@@ -14,3 +14,12 @@
 
 > Bootstrap 3.2
 
+# Build Setup
+
+ > Inicie o seu ambiente virtual executando:
+ 
+ C:\Users\Name\djangogirls> ~/<nome-do-seu-servidor>\Scripts\activate
+ 
+ > Inicie o servidor web:
+ 
+ (myvenv) ~/djangogirls$ python manage.py runserver
