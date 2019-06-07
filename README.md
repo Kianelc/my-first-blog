@@ -6,7 +6,7 @@
 
 > Link do tutorial: [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
-# Components do Blog
+## Components do Blog
 
 > Django
 
@@ -14,7 +14,7 @@
 
 > Bootstrap 3.2
 
-# Build Setup
+## Build Setup
 
  > Inicie o seu ambiente virtual executando:
  
